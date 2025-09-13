@@ -1,6 +1,6 @@
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jacqueline Villagómez</h2>
 
-![Verov23 Banner](BannerLinkedin.png)
+![Verov23 Banner]([BannerLinkedin.png](https://github.com/Verov23/Verov23/blob/main/Banner%20Linkedin.png?raw=true))
 
 ### 👩‍💻 &nbsp;About Me
 
