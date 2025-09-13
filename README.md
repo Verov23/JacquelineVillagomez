@@ -1,5 +1,7 @@
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jacqueline Villagómez</h2>
 
+![Verov23 Banner](BannerLinkedin.png)
+
 ### 👩‍💻 &nbsp;About Me
 
 💡 &nbsp;I love exploring data and transforming it into actionable insights 📊.  
